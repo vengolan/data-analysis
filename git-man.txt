@@ -1,0 +1,16 @@
+cd ~/workspace/githome/
+git clone https://github.com/vengolan/data-analysis.git
+
+git clone https://github.com/vengolan/data-analysis.git
+
+git status
+
+
+git config --global user.email "vengolan@gmail.com"
+
+git commit -m ' adding the readme file'
+
+git push 
+
+git pull 
+
